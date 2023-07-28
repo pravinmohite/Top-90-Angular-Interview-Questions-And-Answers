@@ -93,5 +93,5 @@
 91. [What is the use of trackBy in Angular ?](https://www.frontendinterviewquestions.com/interview-questions/what-is-the-use-of-trackby-in-angular)
 
 
-For more questions and answers visit our website at [Frontend Interview Questions](https://www.frontendinterviewquestions.com/)
+For more questions and answers visit our website at [Frontend Interview Questions](https://www.frontendinterviewquestions.com)
 
