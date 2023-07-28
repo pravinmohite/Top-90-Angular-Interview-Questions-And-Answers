@@ -16,7 +16,7 @@
 14. [What is the difference between 'dependencies' and 'dev-dependencies' properties in package.json ?](https://www.frontendinterviewquestions.com/interview-questions/difference-between-'dependencies')
 15. [What is replay subject in angular ?](https://www.frontendinterviewquestions.com/interview-questions/what-is-replay-subject-in-angular)
 16. [What is the difference between adding styles and scripts in angular.json and adding styles and scripts in index.html ?](https://www.frontendinterviewquestions.com/interview-questions/what-is-the-difference-between-adding-styles-and-scripts-in-angular.json-and-adding-styles-and-scripts-in-index.html)
-17. [What is the difference between cold observables and hot observables ?(https://frontendinterviewquestion.blogspot.com/2023/07/Difference%20between%20cold%20observables%20and%20hot%20observables)
+17. [What is the difference between cold observables and hot observables ?](https://frontendinterviewquestion.blogspot.com/2023/07/Difference%20between%20cold%20observables%20and%20hot%20observables)
 18. [What are the properties inside @ngModule decorator ?](https://www.frontendinterviewquestions.com/interview-questions/what-are-the-properties-inside-@ngmodule-decorator)
 19. [How to generate a component using cli command without creating its spec file ?](https://www.frontendinterviewquestions.com/interview-questions/how-to-generate-a-component-using-cli-command-without-creating-its-spec-file)
 20. [What is RxJS ?](https://www.frontendinterviewquestions.com/interview-questions/what-is-rxjs)
