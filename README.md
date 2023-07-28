@@ -1,7 +1,5 @@
 # Top 90+ Angular Interview Questions And Answers
 
-1. [Explain CSS position properties ?](https://www.frontendinterviewquestions.com/interview-questions/explain-css-position-properties)
-
 1. What is Angular and what are its key features ?
 2. What is a Single page application ?
 3. What is a component in Angular ?
